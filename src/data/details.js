@@ -8,10 +8,10 @@
 module.exports = {
 
   // Your twitter handle
-  twitter: null,
+  twitter: @thumeco,
 
   // Your name
-  name: null,
+  name: Wayne Thume,
 
   // The event we are at
   event: "Smashing Conference",
