@@ -8,7 +8,7 @@
 module.exports = {
 
   // Your twitter handle
-  twitter: null,
+  twitter: "@thumeco",
 
   // Your name
   name: "Wayne Thume",
